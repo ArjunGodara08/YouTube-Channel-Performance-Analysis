@@ -2,9 +2,9 @@
 Analyzing top YouTube channels, we reveal engagement trends, audience sentiment, and performance metrics that drive growth📊
 From optimal upload times to top-performing content, this breakdown shows what works and what needs improvement! Discover who dominates, who needs optimization, and how engagement strategies impact visibility.
 
-![image_alt](https://github.com/Pushkaraggg/Youtube-Channel-Performance-Analysis-/blob/d04b699f03c276ae79b3049e73178a66a6933e19/Screenshot%20(11).png)
 
-Insightful Dashboard Link -https://youtu.be/DXcNwKnw5gM?si=OxfDF9nw0TXQIulo
+
+
 
 
 #### Youtube Analytics: Content Performance Analyzer Dashboard
@@ -87,3 +87,4 @@ For CodeBasics, the most engaging content revolves around interview-style discus
 - **Sentiment analysis provides valuable viewer feedback**—channels should refine content based on audience reception.  
 - **Data-driven improvements empower creators**—focusing on engagement, visibility, and strategy is key to long-term success. 
 
+gmail: arjun08205@gmail.com
